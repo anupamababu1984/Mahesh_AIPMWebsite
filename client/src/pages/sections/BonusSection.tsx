@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Metrics & Evaluation: Define success for AI products that actually ship",
+      description:
+        "Learn how to set the right KPIs for AI-powered features, evaluate model performance against business outcomes, and communicate results to stakeholders and leadership.",
+    },
+    {
+      title: "Stakeholder Communication: Align teams and executives on AI initiatives",
+      description:
+        "Master the art of translating complex AI concepts into compelling narratives for non-technical audiences, and build the cross-functional alignment needed to move fast.",
+    },
   ];
 
   return (
