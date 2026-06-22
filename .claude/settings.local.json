@@ -10,7 +10,13 @@
       "Bash(npm install:*)",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Read(//c/Users/awsli/OneDrive/Desktop/AI/Github/client/**)",
+      "Bash(curl -s http://localhost:5173)",
+      "PowerShell(Get-Command *)",
+      "PowerShell(cmd /c \"node --version 2>&1\")",
+      "PowerShell(cmd /c \"where node 2>&1\")",
+      "PowerShell(choco install *)"
     ]
   }
 }
